@@ -29,5 +29,5 @@ Comprehensive synthetic telecommunications dataset for analytics and ML.
 - Revenue Optimization
 - Network Analytics
 
-## Created: November 2024
+## Created: November 2025
 ## Owner: Field Engineering
